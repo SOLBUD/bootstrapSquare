@@ -1,0 +1,15 @@
+.row>*{
+    outline: 2px solid black; text-align: center;
+}
+
+.high{
+    height: 300px;
+}
+
+.low {
+    height: 150px;
+}
+
+.header>*{
+    height: 50px;
+}
